@@ -1,7 +1,3 @@
-test commit
-Trikcode
-a
-A
 #!/usr/bin/node
 
 const req = require('request');
